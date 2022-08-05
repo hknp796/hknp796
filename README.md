@@ -34,15 +34,9 @@
   <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-<p>
-  🎶Now playing ...🎶<br/>
-  <a href="http://spotify-informer.daniels-roth-stan.fr/">
-    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
-  </a><br/>
-  <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
-</p>
 
-<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
+
+
 <h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
 <p>
   🧔 Moi c'est <bold>Stan</bold>. 23 ans, barbu et un amateur de code et de 🍺.<br/>
@@ -54,86 +48,3 @@
 <p>
   🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
 </p><br/>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<details>
-  <summary>Quelques statistiques ...</summary><br/>
-
-<!--START_SECTION:waka-->
-
-# **I'm an early 🐤**
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
-
-**🐱 My GitHub Data**
-
-> 🏆 44 Contributions in the Year 2022
->
-> 📦 2.5 MB Used in GitHub's Storage
->
-> 💼 Opted to Hire
->
-> 📜 26 Public Repositories
->
-> 🔑 10 Private Repositories
->
-> **I'm a Night 🦉**
-
-```text
-🌞 Morning    37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.12%
-🌆 Daytime    88 commits     ████████░░░░░░░░░░░░░░░░░   33.59%
-🌃 Evening    80 commits     ███████░░░░░░░░░░░░░░░░░░   30.53%
-🌙 Night      57 commits     █████░░░░░░░░░░░░░░░░░░░░   21.76%
-
-```
-
-📅 **I'm Most Productive on Wednesday**
-
-```text
-Monday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45%
-Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.27%
-Wednesday    56 commits     █████░░░░░░░░░░░░░░░░░░░░   21.37%
-Thursday     43 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.41%
-Friday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83%
-Saturday     27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.31%
-Sunday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36%
-
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages:
-JavaScript               11 hrs 29 mins      █████████████████████░░░░   86.18%
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86%
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.85%
-PHP                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78%
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
-
-🔥 Editors:
-VS Code                  13 hrs 4 mins       ████████████████████████░   98.08%
-Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
-
-💻 Operating System:
-Linux                    13 hrs 19 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in PHP**
-
-```text
-PHP                      10 repos            ████████░░░░░░░░░░░░░░░░░   34.48%
-HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69%
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24%
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
-
-```
-
-Last Updated on 18/01/2022
-
-<!--END_SECTION:waka-->
-</details>
