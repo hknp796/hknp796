@@ -37,7 +37,7 @@
 
 
 
-<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
+<h3><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">⚡️ Partenaire de vos projets ⚡️</h3><br/>
 <p>
   🧔 Moi c'est <bold>Stan</bold>. 23 ans, barbu et un amateur de code et de 🍺.<br/>
   💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
